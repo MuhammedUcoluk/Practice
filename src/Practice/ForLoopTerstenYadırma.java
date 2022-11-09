@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class C12_ForLoopTerstenYazdırma {
+public class ForLoopTerstenYadırma {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
