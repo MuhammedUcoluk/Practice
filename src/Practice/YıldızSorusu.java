@@ -1,6 +1,6 @@
 package Practice;
 
-public class C01_Sılınecek {
+public class YıldızSorusu {
 
 	public static void main(String[] args) {
 		
